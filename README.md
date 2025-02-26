@@ -60,11 +60,27 @@ Honestly I should 100% delete this from the repo... but I'll leave it there for 
 
 Anyways, this is a cover of [Gaboicé!](https://www.newgrounds.com/audio/listen/568661).
 
-### Storms [Finished]
+### Storms
+
+This file contains multiple songs:
+
+**Storms - A [Finished]** 
 
 I really don't wanna comment on how this came to be. Suffice to say, it was not a worthy reason.
 
 But I do like the outcome a bit, and it's uploaded [here](https://www.newgrounds.com/audio/listen/1234146).
+
+**Storms - B [Finished]**
+
+A very simple concept  based on Storms - A meant for, like, a shop or lobby or something.
+
+**Silent Storm [Unfinished]**
+
+What happens to the song when it gets so depressed it doesn't even wanna be finished.
+
+### Breezes [WIP]
+
+It's like Storms but calmer and unfinished.
 
 ### Volveremos a Hablar - Deuman [Unfinished]
 
